@@ -40,6 +40,7 @@ footer a {
     color: red;
 }
 
+
 h2 + button {
     font-size: 20px;
     background-color: magenta;
@@ -48,6 +49,7 @@ h2 + button {
 footer > a{
     color: green;
 }
+
 
 input[type="password"] { 
     color: goldenrod;
