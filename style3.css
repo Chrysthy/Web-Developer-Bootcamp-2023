@@ -45,6 +45,14 @@ h2 + button {
     background-color: magenta;
 }
 
+.post a{
+    color: #264653;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+
 footer > a{
     color: green;
 }
@@ -53,4 +61,43 @@ input[type="password"] {
     color: goldenrod;
 }
 
+/*section[class="post"] {
+    background-color: yellow;
+}*/
 
+a[href*="google"] {
+    color: magenta;
+}
+
+button:hover {
+    background-color:aqua;
+    color: orange;
+}
+
+.post a:hover {
+    text-decoration: underline;
+}
+
+.post button:active {
+    background-color: greenyellow;
+}
+
+.post:nth-of-type(3n) {
+    background-color: grey;
+}
+
+h2::first-letter {
+    font-size: 50px;
+}
+
+p::first-line {
+    color: green;
+}
+
+p::selection {
+    background-color: goldenrod;
+}
+
+h1, h2 {
+    color: rgb(40, 8, 136);
+}
