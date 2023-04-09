@@ -1,6 +1,6 @@
-💻 The Web Developer Bootcamp 2023 - Udemy
+<h1> 💻 The Web Developer Bootcamp 2023 - Udemy </h1>
 
-📑 The course covers tons of tools and technologies including:
+<h2> 📑 The course covers tons of tools and technologies including: </h2>
 
 * HTML5
 * CSS3
