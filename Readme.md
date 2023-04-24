@@ -1,6 +1,11 @@
 <h1> 💻 The Web Developer Bootcamp 2023 by Colt Steele - Udemy </h1>
+<br>
 
 <h2> 📑 The course covers tons of tools and technologies including: </h2>
+<br>
+
+<h3> [The Web Developer Bootcamp 2023](https://www.udemy.com/course/the-web-developer-bootcamp/) </h3>
+<br>
 
 * HTML5
 * CSS3
@@ -34,7 +39,9 @@
 * Image Upload and Storage
 * Maps and Geocoding
 
+<br>
 💡 The course also includes:
+<br>
 
 * Lectures
 * Code-Alongs
